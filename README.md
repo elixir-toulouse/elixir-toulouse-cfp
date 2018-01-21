@@ -1,6 +1,6 @@
-# Meetup Call For Paper (CFP)
+# Appels à commnunications pour Toulouse Elixir
 
-[Meetup](https://www.meetup.com/fr-FR/Python-Toulouse/) | [Proposer un sujet](https://github.com/python-toulouse/meetup-cfp/issues/new) | [Voter pour un sujet](https://github.com/python-toulouse/meetup-cfp/issues)
+[Proposer un sujet](https://github.com/elixir-toulouse/elixir-toulouse-cfp/issues/new) | [Voter pour un sujet](https://github.com/elixir-toulouse/elixir-toulouse-cfp/issues)
 
 Utilisez les reactions ci-dessous pour voter:
 
